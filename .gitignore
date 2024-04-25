@@ -1,4 +1,1 @@
-jupyter-book
-matplotlib
-numpy
-seaborn_build/
+_build/
