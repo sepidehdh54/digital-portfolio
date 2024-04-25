@@ -20,6 +20,6 @@ Check out the content pages bundled with this sample book to see more.
 - I deeply realized that different versions of packages can disrupt the work process and cause conflicts.
 - For example, in the Citation section, the ductile package did not match with the rest of the packages.
 - I found placing the syntax in the right spots difficult such as the "```" marks and where they go.
-- I found adding Fig 1 to the image difficult as I keep getting the wrong result
+
 ```
 ````
